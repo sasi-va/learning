@@ -8,6 +8,10 @@
 
 #made a chang
 
+<<<<<<< HEAD
+#change made by QT/GIT/temp/
+=======
 #Changes are made by QT/GIT/learning
 
+>>>>>>> fcef5f2c0c0c9d98be6fa54a79e9a85e2554845d
 
